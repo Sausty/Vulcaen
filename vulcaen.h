@@ -292,5 +292,8 @@ type VkRenderPassBeginInfo VcInformationDebutPasseRendu;
 #define vkGetPhysicalDeviceImageFormatProperties vcOptientProprietesFormatImageCarteGraphique
 #define vkGetPhysicalDeviceMemoryProperties vcOptientProprietesMemoireCarteGraphique
 #define vkGetPhysicalDeviceProperties vcOptientProprietesCarteGraphique
+#define vkGetPhysicalDeviceQueueFamilyProperties vcObtientProprietesFamilleFilCarteGraphique
+#define vkGetPhysicalDeviceSparseImageFormatProperties vcObtientProprietesSemeFormatImageCarteGraphique
+// TODO: extensions même si en vrai j'en ai déjà marre de ce projet à la con
 
 #endif
