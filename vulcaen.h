@@ -38,11 +38,11 @@ type VkSampleMask VcMasqueEchantillon;
 #define VC_VRAI                               1U
 #define VC_TAILLE_ENTIERE                     (~0ULL)
 #define VC_MAX_TYPE_MEMOIRE                   32U
-#define VK_MAX_TAS_MEMOIRE                    16U
-#define VK_MAX_TAILLE_NOM_CARTE_GRAPHIQUE     256U
-#define VK_TAILLE_UUID                        16U
-#define VK_MAX_TAILLE_NOM_EXTENSION           256U
-#define VK_MAX_TAILLE_DESCRIPTION             256U
+#define VC_MAX_TAS_MEMOIRE                    16U
+#define VC_MAX_TAILLE_NOM_CARTE_GRAPHIQUE     256U
+#define VC_TAILLE_UUID                        16U
+#define VC_MAX_TAILLE_NOM_EXTENSION           256U
+#define VC_MAX_TAILLE_DESCRIPTION             256U
 
 // Objets Vulkan
 
