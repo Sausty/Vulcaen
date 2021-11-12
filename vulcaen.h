@@ -277,7 +277,7 @@ type VkRenderPassBeginInfo VcInformationDebutPasseRendu;
 #define vkCreateInstance vcCreeInstance
 #define vkEnumerateInstanceExtensionProperties vcDenombreProprietesExtensionInstance
 #define vkEnumerateInstanceLayerProperties vcDenombreProprietesCoucheInstance
-#define vkEnumerateInstanceVersion vkDenombreVersionInstance
+#define vkEnumerateInstanceVersion vcDenombreVersionInstance
 
 // FONCTIONS INSTANCE
 
